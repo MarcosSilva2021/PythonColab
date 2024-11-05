@@ -4,4 +4,7 @@ Bem-vindo ao repositório de códigos Python para Google Colab! Este espaço é 
 ## Atividades
 - Python Básico;
 - Operações com o numpy;
-- Estudo de tabelas com o Pandas
+- Estudo de tabelas com o Pandas;
+-- Carregar dados;
+-- Tratar dados ausentes;
+-- Obter informações para insights.
